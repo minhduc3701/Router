@@ -21,6 +21,11 @@ const menus = [
     name: "Sản Phẩm",
     to: "/products",
     exact: false
+  },
+  {
+    name: "Đăng Nhập",
+    to: "/login",
+    exact: false
   }
 ];
 
